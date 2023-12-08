@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SharedPreferencesExample</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="empty_error">Empty!!</string>
+    <string name="username_or_password_doesn_t_match">Username or Password doesn\'t match!</string>
+    <string name="logout">Logout</string>
+    <string name="welcome">Welcome, %1$s</string>
+    <string name="delete_account">Delete Account</string>
+</resources>
